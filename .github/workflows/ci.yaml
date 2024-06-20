@@ -2,7 +2,7 @@
 #VERSION 2
 #renew
 
-name: Docker image sync to tencent
+name: Docker image sync to registry
 env:
   REGISTRY_URL: "swr.cn-north-4.myhuaweicloud.com/cotte-internal"
 on:
