@@ -1,0 +1,7 @@
+[
+  {
+    "source": "alibabadragonwell/dragonwell:21-anolis",
+    "target": "ccr.ccs.tencentyun.com/devopsvip/dragonwell:21-anolis"
+  }
+  
+]
